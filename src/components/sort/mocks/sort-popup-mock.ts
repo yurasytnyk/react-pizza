@@ -1,4 +1,4 @@
-import { IPopupData } from '../types/sort-popup-types';
+import { IPopupData } from '../../sort-popup/types/sort-popup-types';
 
 export const sortPopupData: IPopupData[] = [
   {

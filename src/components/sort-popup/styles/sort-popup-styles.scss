@@ -12,21 +12,6 @@
 
     &-list {
       overflow: hidden;
-
-      li {
-        padding: 12px 20px;
-        cursor: pointer;
-
-        &.active,
-        &:hover {
-          background: rgba(254, 95, 30, 0.05);
-        }
-
-        &.active {
-          font-weight: bold;
-          color: #fe5f1e;
-        }
-      }
     }
   }
 }
